@@ -1,4 +1,4 @@
-# H1 **_1 Exercicis introducció_**
+# **_1 Exercicis introducció_**
 
 
   
