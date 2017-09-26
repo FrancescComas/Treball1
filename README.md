@@ -11,7 +11,7 @@ Els arxius que hem creat son:
 *-HTML*
 *-CSS*
 
-A mes, l'exercici en que l'arxiu .css estiguis dins una carpeta i que estigui enllaçat a l'arxius html
+A mes, l'exercici ens diu que l'arxiu .css estigui dins una carpeta i que estigui enllaçat a l'arxius html
 
 
 
